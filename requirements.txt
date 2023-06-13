@@ -1,0 +1,6 @@
+pylint==2.17.2
+pytest==7.2.2
+pyinstaller==5.9.0
+PyQt6==6.4.2
+pyqtgraph==0.13.3
+Faker==18.4.0
